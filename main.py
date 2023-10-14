@@ -5,5 +5,5 @@ app = FastAPI()
 @app.get("/test")
 def test():
     return {
-        "message" : "Cuma gini aja woi"
+        "message" : "Cuma gini aja OI"
     }
